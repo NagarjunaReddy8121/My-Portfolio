@@ -52,16 +52,6 @@
      background-repeat: no-repeat;
      transition: 4s;
 }
-.downloadBtn {
-    text-decoration: none;
-    background-color: var(--color-primary);
-    color: var(--color-text);
-    border-radius: 100px;
-    font-size: 30px;
-    font-weight: 600;
-    padding: 17px 26px;
-    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
-}
 
 .aboutItem:hover{
     background-size: 100% 100%;
@@ -86,9 +76,9 @@
    .content {
     flex-direction: column;
    }
-   .aboutImage {
+   /* .aboutImage {
     display: none;
-   }
+   } */
    .aboutItems {
     margin-top: 29px;
    }
