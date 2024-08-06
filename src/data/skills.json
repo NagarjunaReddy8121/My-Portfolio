@@ -1,0 +1,81 @@
+[
+    {
+        "title": "Java",
+        "imageSrc": "skills/java-logo.png"
+    },
+
+    {
+        "title": "Spring",
+        "imageSrc": "skills/spring-logo.png"
+    },
+
+    {
+        "title": "Spring Boot",
+        "imageSrc": "skills/springboot-logo.png"
+    },
+
+    {
+        "title": "Rest API",
+        "imageSrc": "skills/rest-api-logo.png"
+    },
+
+    {
+        "title": "Spring Data JPA",
+        "imageSrc": "skills/spring-data-jpa.png"
+    },
+
+    {
+        "title": "Microservices",
+        "imageSrc": "skills/microservices-logo.png"
+    },
+
+    {
+        "title": "Spring Cloud",
+        "imageSrc": "skills/spring-cloud-logo.png"
+    },
+
+    {
+        "title": "Maven",
+        "imageSrc": "skills/maven-logo.png"
+    },
+
+    {
+        "title": "AWS",
+        "imageSrc": "skills/aws-logo.png"
+    },
+
+    {
+        "title": "Docker",
+        "imageSrc": "skills/docker-logo.png"
+    },
+
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/mysql-logo.png"
+    },
+
+    {
+        "title": "Git & GitHub",
+        "imageSrc": "skills/github-logo.png"
+    },
+
+    {
+        "title": "JUnit",
+        "imageSrc": "skills/junit-logo.png"
+    },
+
+    {
+        "title": "Mockito",
+        "imageSrc": "skills/mockito-logo.png"
+    },
+
+    {
+        "title": "Postman API",
+        "imageSrc": "skills/postman-logo.png"
+    },
+
+    {
+        "title": "Swagger",
+        "imageSrc": "skills/swagger-icon.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+ {
+    "role":"Software Engineer",
+    "organisation":" Amrutha Infotech Pvt Ltd",
+    "startDate":"June 2021",
+    "endDate":"Present",
+    "experiences": ["Developing REST API's","Imeplementing Microservices Architecture"],
+    "imageSrc": "history/companyLogo.png"
+ }
+]

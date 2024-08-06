@@ -1,0 +1,23 @@
+[
+    {
+        "title":"Bachelor Of Technology",
+        "name":"Annamacharya Institute of Technology And Sciences",
+        "place":"Kadapa",
+        "startDate": "2016",
+        "endDate":"2020"
+    },
+    {
+        "title":"Higher Secondary",
+        "name":"Sri Chaitanya Jr College",
+        "place":"Tirupati",
+        "startDate": "2014",
+        "endDate":"2016"
+    },
+    {
+        "title":"Secondary(SSC)",
+        "name":"Z.P High School",
+        "place":"Kadapa",
+        "startDate": "2013",
+        "endDate":"2014"
+    }
+]
